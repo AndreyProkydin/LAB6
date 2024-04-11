@@ -1,0 +1,10 @@
+C:\Users\nypzl\source\repos\laboratorna_4\bin\Debug\laboratorna_4.exe.config
+C:\Users\nypzl\source\repos\laboratorna_4\bin\Debug\laboratorna_4.exe
+C:\Users\nypzl\source\repos\laboratorna_4\bin\Debug\laboratorna_4.pdb
+C:\Users\nypzl\source\repos\laboratorna_4\obj\Debug\laboratorna_4.csproj.AssemblyReference.cache
+C:\Users\nypzl\source\repos\laboratorna_4\obj\Debug\laboratorna_4.Form1.resources
+C:\Users\nypzl\source\repos\laboratorna_4\obj\Debug\laboratorna_4.Properties.Resources.resources
+C:\Users\nypzl\source\repos\laboratorna_4\obj\Debug\laboratorna_4.csproj.GenerateResource.cache
+C:\Users\nypzl\source\repos\laboratorna_4\obj\Debug\laboratorna_4.csproj.CoreCompileInputs.cache
+C:\Users\nypzl\source\repos\laboratorna_4\obj\Debug\laboratorna_4.exe
+C:\Users\nypzl\source\repos\laboratorna_4\obj\Debug\laboratorna_4.pdb
